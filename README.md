@@ -12,7 +12,7 @@ When compared to previous file, here we would be changing the variable names. Eg
 In this step we would be removing all the comments, since we've self-explainable variables.
 
 # Duplicate.java
-Now we'll be moving all the ```System.out.println()``` to a commmon function.
+Now we'll be moving all the ```System.out.println()``` to a common function.
 
 # AlgorithmDuplication.java
 Here we'll be moving the common logic of getting the input from the console to the common function.
@@ -20,8 +20,8 @@ Here we'll be moving the common logic of getting the input from the console to t
 # AddingConditions.java
 Here we'll be increasing the complexity of the program by adding the condition for validating the input from the console.
 
-# ConiditionalDecompression.java
-Here we'll replace the conditional logics to an extract method.
+# ConditionalDecompression.java
+Here we'll extract the conditional logics to a method.
 
 # LongMethod.java
-Now we'll moving the conditional logic to an extract method. Also we'll be changing the nested ```if else``` to ```for``` loop.
+Now we'll extract the conditional logic to a method. Also we'll be changing the nested ```if else``` to ```for``` loop.
